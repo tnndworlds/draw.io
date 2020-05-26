@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T01:13:06.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="T0B0bbV1yDmibM5cTFbq" version="13.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-26T07:18:59.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Mx7AiERF6aImagGuDwIX" version="13.1.1" type="github" pages="2">
   <diagram id="bKS6v56cRj24D0KpqQBA" name="整体功能">
     <mxGraphModel dx="969" dy="521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sNWCPpMM0XTwDT3Wz6ek" name="Kafka管理系统">
-    <mxGraphModel dx="969" dy="521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="km4Pwn-EXgNUMti3Lu1q-0" />
         <mxCell id="km4Pwn-EXgNUMti3Lu1q-1" parent="km4Pwn-EXgNUMti3Lu1q-0" />
