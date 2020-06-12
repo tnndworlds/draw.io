@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T07:22:21.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="2-Wm8oP1YQkfRpd6zVN1" version="13.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-06-12T01:20:05.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="aIyAJ4-24jTnuVXyvxmj" version="13.2.1" type="github" pages="10">
   <diagram id="Y7dvjuWZmGdwIcVkgsC_" name="初始阶段">
     <mxGraphModel dx="1635" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2532,7 +2532,7 @@
     
   </diagram>
   <diagram id="R_MMcZ9PUPgNZF6B41qX" name="Kafka">
-    <mxGraphModel dx="1128" dy="622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="r4Fb-LWav-9l7NpOiAt--0" />
         <mxCell id="r4Fb-LWav-9l7NpOiAt--1" parent="r4Fb-LWav-9l7NpOiAt--0" />
@@ -2562,6 +2562,9 @@
         </mxCell>
         <mxCell id="r4Fb-LWav-9l7NpOiAt--14" value="是什么" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r4Fb-LWav-9l7NpOiAt--1">
           <mxGeometry x="41" y="395" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Fb-LWav-9l7NpOiAt--16" value="还有坑？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r4Fb-LWav-9l7NpOiAt--1">
+          <mxGeometry x="348" y="507" width="131" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
