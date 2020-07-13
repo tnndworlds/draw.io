@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-13T11:02:30.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="YNnwYomG6zT44AYalIOR" version="13.3.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-07-13T11:03:05.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="xi2bg5RI-yUKOlzDUbis" version="13.3.0" type="github" pages="6">
   <diagram id="U-9xloskH4poMOoSewtp" name="FundsFlow">
     <mxGraphModel dx="1752" dy="537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,8 +130,8 @@
       <root>
         <mxCell id="v8eiwL24NbOOc1dTOpiD-0" />
         <mxCell id="v8eiwL24NbOOc1dTOpiD-1" parent="v8eiwL24NbOOc1dTOpiD-0" />
-        <mxCell id="v8eiwL24NbOOc1dTOpiD-3" value="&lt;h1&gt;购买因子&lt;/h1&gt;&lt;p&gt;1. 总投资额&lt;/p&gt;&lt;p&gt;2. 定投金额&lt;/p&gt;&lt;p&gt;3. 定投周期&lt;/p&gt;&lt;p&gt;4. 涨/跌幅&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="v8eiwL24NbOOc1dTOpiD-1">
-          <mxGeometry x="70" y="249" width="401" height="172" as="geometry" />
+        <mxCell id="v8eiwL24NbOOc1dTOpiD-3" value="&lt;h1&gt;购买因子&lt;/h1&gt;&lt;p&gt;1. 总投资额&lt;/p&gt;&lt;p&gt;2. 定投金额&lt;/p&gt;&lt;p&gt;3. 定投周期&lt;/p&gt;&lt;p&gt;4. 涨/跌幅&lt;/p&gt;&lt;p&gt;5. 行业占比&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="v8eiwL24NbOOc1dTOpiD-1">
+          <mxGeometry x="70" y="249" width="401" height="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
