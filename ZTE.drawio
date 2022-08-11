@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T08:41:55.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="20.2.3" etag="7g2G0YjKIOLwnKgFBv9f" type="github"><diagram id="hTU8kjOW0qbDxu7hYfx1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-11T09:10:23.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oO9G1lglbh6EZuOf7c2U" version="20.2.3" type="github" pages="2">
+  <diagram id="hTU8kjOW0qbDxu7hYfx1" name="自动化测试平台">
+    <mxGraphModel dx="1185" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1DzOxuTylJ1_WtZd4-0x" name="智能分发平台">
+    <mxGraphModel dx="1185" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-13" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="303" width="776" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-1" value="云素材【内容中台】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="325" width="139" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-4" value="创作中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="325" width="139" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-5" value="智能分发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="325" width="139" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-6" value="分发账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="375" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-7" value="智能分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="410" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-8" value="数据中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="445" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-9" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="478" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-11" value="运营管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="678" y="325" width="139" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-12" value="达人平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="375" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="L3S6r5yGj9gq8XAJiR9G-14" value="清泉云图" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="287" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
